@@ -7,7 +7,7 @@ This is my Pathfinder
 
 Bill of Materials:
 
-Materials |                               Links, Producers, and Price                                               |
+ Materials|                               Links, Producers, and Price                                               |
 ----------------------------------------------------------------------------------------------------------------------------
  PCB:     | Link: https://robu.in/product/online-pcb-manufacturing-service,                                         |
           | Producer: Robu, Price: 9.44 usd                                                                         |
