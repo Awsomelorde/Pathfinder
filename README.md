@@ -2,12 +2,15 @@
 This is my Pathfinder
 
 Schematic:
+
 <img width="590" height="238" alt="Screenshot 2026-05-05 at 2 30 27 PM" src="https://github.com/user-attachments/assets/5a9b0800-5ac8-47f8-a5b7-2fb363ed6a5b" />
 
 PCB:
+
 <img width="843" height="503" alt="Screenshot 2026-05-05 at 2 30 16 PM" src="https://github.com/user-attachments/assets/095548f5-157b-4ab1-9ca0-057431171993" />
 
 3D View:
+
 <img width="552" height="433" alt="Screenshot 2026-06-02 at 5 39 01 PM" src="https://github.com/user-attachments/assets/0dc0cafb-9c6a-4507-a003-6ed5d2764802" />
 
 Bill of Materials:
