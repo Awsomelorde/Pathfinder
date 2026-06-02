@@ -7,10 +7,14 @@ This is my Pathfinder
 
 Bill of Materials:
 
-| Materials |  Links and Price  | Producers | 
-| --------- | ----------------- | --------- |
-| PCB:      | Row 1, Cell 2 | Row 1, Cell 3 |
-| Switches: | Row 2, Cell 2 | Row 2, Cell 3 |
+| Materials |                         Links and Price                            | Producers | 
+| --------- | ------------------------------------------------------------------ | --------- |
+| PCB       | https://robu.in/product/online-pcb-manufacturing-service, 9.44 usd |    Robu   |
+| Switches  | Not Required (Have them)                                           | --------- |
+| LED       | https://in.element14.com/led-technology/l08r5000q1/led-5mm-orange  | Element14 |
+|           | /dp/1208854, 1.5 usd                                               |           | 
+| Keycaps   |               |               |
+|  RP2040   | Row 1, Cell 2 | Row 1, Cell 3 |
 
 
  Materials|                               Links, Producers, and Price                                               |
