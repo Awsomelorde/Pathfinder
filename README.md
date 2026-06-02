@@ -1,5 +1,5 @@
 # Pathfinder
-This is my Pathfinder
+This is my Pathfinder. I am doing this for the Hack Club Stasis Program. Definitaly check it out if you are a teenager like me. I never knew that i had the capability to build such things.
 
 Schematic:
 
