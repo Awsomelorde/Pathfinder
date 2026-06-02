@@ -7,10 +7,10 @@ This is my Pathfinder
 
 Bill of Materials:
 
-| Materials |   Links  | Producers | Producers 
-| --- | --- | --- |
-| Row 1, Cell 1 | Row 1, Cell 2 | Row 1, Cell 3 |
-| Row 2, Cell 1 | Row 2, Cell 2 | Row 2, Cell 3 |
+| Materials |  Links and Price  | Producers | 
+| --------- | ----------------- | --------- |
+| PCB:      | Row 1, Cell 2 | Row 1, Cell 3 |
+| Switches: | Row 2, Cell 2 | Row 2, Cell 3 |
 
 
  Materials|                               Links, Producers, and Price                                               |
