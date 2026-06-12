@@ -1,5 +1,7 @@
 # Pathfinder
-This is my Pathfinder. I am doing this for the Hack Club Stasis Program. Definitaly check it out if you are a teenager like me. I never knew that i had the capability to build such things.
+This is my Pathfinder. I am doing this for the Hack Club Stasis Program. Definitaly check it out if you are a teenager like me. I never knew that i had the capability to build such things. 
+
+Pathfinder board with 3 keys and 3 lights where if you press them in different speeds in succession, they will light up differently
 
 Schematic:
 
