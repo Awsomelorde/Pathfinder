@@ -23,17 +23,12 @@ Bill of Materials:
 |  Switches | https://www.alibaba.com/product-detail/Cherry-mechanical-Keyboard-key-touch-Micro_1601204407658.html?                                            |  Alibaba  |            |           | spm=a2700.prosearch.normal_offer.d_image.183267afHfnEJ0&priceId=53afa7db8cfd46a7952ed8fc7a63f760, 0.41 usd                                       | --------- |
 |  LED      | https://in.element14.com/led-technology/l08r5000q1/led-5mm-orange/dp/1208854, 1.5 usd                                                            | Element14 |
 |  RP2040   | http://alibaba.com/product-detail/RP2040-Zero-RP2040-for-Raspberry-Pi_1600922498803.html?                                                        |  Alibaba  |           |           | spm=a2700.galleryofferlist.normal_offer.d_image.60a213a0DtCv8w&priceId=0329443352784b90ada7fe98fcf3058a, 3.81 usd                                | --------- |
-|  Keycaps  | https://www.alibaba.com/product-detail/Cherry-mechanical-Keyboard-key-touch-Micro_1601204407658.html?                                            |  Alibaba  |            |           | spm=a2700.prosearch.normal_offer.d_image.183267afHfnEJ0&priceId=53afa7db8cfd46a7952ed8fc7a63f760, 0.41 usd                                       | --------- |
+|  Keycaps  | https://www.alibaba.com/suppliersubdomainalibabacom/product-detail/PBT-Colorful-Keycaps-for-Mechanical-Keyboard_1601712196348.html?              |  Alibaba  |            |           | spm=a2700.prosearch.normal_offer.d_image.44c667afrCAsDR&priceId=46677dda65da4e8da5d13f48e3ea3673                                                 | --------- |
 
 
 
 
-Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
-"Keycaps","Pathfinder",3,0.82,"https://www.alibaba.com/suppliersubdomainalibabacom/product-detail/PBT-Colorful-Keycaps-for-Mechanical-Keyboard_1601712196348.html?spm=a2700.prosearch.normal_offer.d_image.44c667afrCAsDR&priceId=46677dda65da4e8da5d13f48e3ea3673","Alibaba"
-"Switches","Pathfinder",3,2.10,"https://www.alibaba.com/product-detail/Cherry-mechanical-Keyboard-key-touch-Micro_1601204407658.html?","Alibaba"
-"RP2040","Pathfinder",1,1.20,"https://www.alibaba.com/product-detail/RP2040-Zero-RP2040-for-Raspberry-Pi_1600922498803.html?","Alibaba"
-"LED","Pathfinder",5,1.50,"https://in.element14.com/led-technology/l08r5000q1/led-5mm-orange/dp/1208854","element14"
-"PCB","Pathfinder",5,9.44," https://robu.in/product/online-pcb-manufacturing-service","Robu"
+
 
 
 
